@@ -36,8 +36,8 @@ body {
    margin-top: 0px;
 }
 .bd-gift {
-   width: 80%;
-   height: 80%;
+   width: 800px;
+   height: 800px
    background-image:url("birthday card.jpg");
    background-size: cover;
    border: 6px solid #ffffff ;
@@ -45,7 +45,7 @@ body {
    margin:0 auto;
 }
 #bd-cheers {
-  height: 60%;
+  height: 600px;
 }
 #bd-happy:hover {
     background-image:url("happy.webp");
