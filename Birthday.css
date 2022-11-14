@@ -41,10 +41,9 @@ body {
    background-size: cover;
    border: 6px solid #ffffff ;
    border-radius: 5px;
-   margin: 0 auto;
 }
 #bd-cheers {
-  height: 200px;
+  height: 300px;
 }
 #bd-happy:hover {
     background-image:url("happy.webp");
