@@ -35,12 +35,13 @@ body {
    margin-top: 0px;
 }
 .bd-gift {
-   width: 350px;
-   height: 350px;
+   width: 400px;
+   height: 400px;
    background-image:url("birthday card.jpg");
    background-size: cover;
    border: 6px solid #ffffff ;
    border-radius: 5px;
+   margin: 0 auto;
 }
 #bd-cheers {
   height: 200px;
