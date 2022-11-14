@@ -14,7 +14,7 @@ body {
    align-items: center;
 }
 #ff-img {
-  width: 150px;
+  width: 250px;
   border: 6px solid #efb0c9;
   border-radius: 50%;
 }
@@ -38,8 +38,8 @@ body {
    margin-top: 0px;
 }
 .bd-gift {
-   width: 400px;
-   height: 400px;
+   width: 80%;
+   height: 80%;
    background-image:url("birthday card.jpg");
    background-size: cover;
    border: 6px solid #ffffff ;
@@ -47,7 +47,7 @@ body {
    margin:0 auto;
 }
 #bd-cheers {
-  height: 300px;
+  height: 60%;
 }
 #bd-happy:hover {
     background-image:url("happy.webp");
